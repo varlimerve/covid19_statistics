@@ -1,0 +1,1380 @@
+covid19_statuses,last.status,age.splits,gender_concept_name,visit_concept_name,length_of_stay,Oxygen saturation in Arterial blood by Pulse oximetry
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,9,91
+positive,deceased,"(74,90]",MALE,Inpatient Visit,15,100
+positive,deceased,"(74,90]",MALE,Inpatient Visit,28,84
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,4,96
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,3,97
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,10,90
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,8,98
+positive,discharged,"(74,90]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,11,96
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,96
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,6,88
+positive,deceased,"(74,90]",MALE,Inpatient Visit,23,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,14,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,9,88
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,10,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(74,90]",MALE,Inpatient Visit,14,95
+positive,deceased,"(59,74]",MALE,Inpatient Visit,5,99
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,12,100
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,13,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,2,77
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,63,98
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,12,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,98
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,14,91
+positive,deceased,"[18,59]",NA,Inpatient Visit,26,71
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,97
+positive,discharged,"(74,90]",MALE,Inpatient Visit,6,98
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,7,100
+positive,deceased,"(59,74]",MALE,Inpatient Visit,24,94
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,7,67
+positive,discharged,"(59,74]",MALE,Inpatient Visit,8,91
+positive,deceased,"(74,90]",MALE,Inpatient Visit,1,98
+positive,discharged,"(74,90]",MALE,Inpatient Visit,4,82
+positive,deceased,"(74,90]",MALE,Inpatient Visit,11,100
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,90
+positive,deceased,"(74,90]",MALE,Inpatient Visit,10,55
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,3,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,16,89
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,2,99
+positive,discharged,"(74,90]",MALE,Inpatient Visit,7,92
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,100
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,17,100
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,2,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,2,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,14,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,98
+positive,deceased,"(59,74]",MALE,Inpatient Visit,3,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,4,96
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,13,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,23,92
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,17,98
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,8,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,80,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,15,88
+positive,discharged,"(59,74]",MALE,Inpatient Visit,20,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,69,84
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,98
+positive,deceased,"(74,90]",MALE,Inpatient Visit,10,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,94
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,14,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,95
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,15,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,16,93
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,8,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,12,91
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,11,80
+positive,discharged,"(59,74]",MALE,Inpatient Visit,24,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,93
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,95
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,2,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,5,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,12,94
+positive,deceased,"(74,90]",MALE,Inpatient Visit,7,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,92
+positive,discharged,"(74,90]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,97
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,4,100
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,21,92
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,8,96
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,91
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,8,93
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,86
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,93
+positive,deceased,"(74,90]",MALE,Inpatient Visit,1,61
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,97
+positive,deceased,"[18,59]",NA,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,14,90
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,86
+positive,deceased,"(59,74]",MALE,Inpatient Visit,28,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,91
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,98
+positive,deceased,"(74,90]",MALE,Inpatient Visit,7,92
+positive,deceased,"(59,74]",MALE,Inpatient Visit,8,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,88
+positive,discharged,"(74,90]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,13,94
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,2,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,44,75
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,7,82
+positive,deceased,"[18,59]",NA,Inpatient Visit,19,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,26,87
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,20,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,92
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,8,93
+positive,deceased,"[18,59]",NA,Inpatient Visit,15,93
+positive,deceased,"(74,90]",MALE,Inpatient Visit,5,92
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,12,100
+positive,deceased,"(59,74]",MALE,Inpatient Visit,4,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,99
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,9,94
+positive,deceased,"[18,59]",NA,Inpatient Visit,2,97
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,21,89
+positive,deceased,"(74,90]",MALE,Inpatient Visit,47,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,100
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,95
+positive,discharged,"(74,90]",MALE,Inpatient Visit,17,98
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,30,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,8,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,94
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,13,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,55,96
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,7,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,92
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,89
+positive,discharged,"(74,90]",MALE,Inpatient Visit,5,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,13,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,44,99
+positive,discharged,"(59,74]",MALE,Inpatient Visit,7,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,86
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,15,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,16,88
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,12,97
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,26,84
+positive,discharged,"(59,74]",MALE,Inpatient Visit,23,92
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,19,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,39,97
+positive,discharged,"(74,90]",MALE,Inpatient Visit,8,91
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,50,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,15,97
+positive,deceased,"(59,74]",MALE,Inpatient Visit,14,95
+positive,deceased,"[18,59]",NA,Inpatient Visit,15,88
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,11,93
+positive,discharged,"(74,90]",MALE,Inpatient Visit,5,95
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,15,92
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,16,91
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,70,93
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,10,96
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,2,100
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,96
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,10,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,10,95
+positive,discharged,"(74,90]",MALE,Inpatient Visit,5,91
+positive,deceased,"(74,90]",MALE,Inpatient Visit,7,98
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,11,85
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,95,92
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,92
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,93
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,8,96
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,19,92
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,19,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,15,78
+positive,deceased,"(59,74]",MALE,Inpatient Visit,20,98
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,5,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,95
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,94
+positive,discharged,"(74,90]",MALE,Inpatient Visit,32,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,2,96
+positive,deceased,"(74,90]",MALE,Inpatient Visit,3,75
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,93
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,93
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,3,96
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,17,88
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,14,98
+positive,deceased,"(74,90]",MALE,Inpatient Visit,1,91
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,2,94
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,3,97
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,91
+positive,deceased,"(59,74]",MALE,Inpatient Visit,7,85
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,84
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,19,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,14,92
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,5,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,10,89
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,7,99
+positive,discharged,"(59,74]",MALE,Inpatient Visit,16,88
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,100
+positive,discharged,"(59,74]",MALE,Inpatient Visit,16,85
+positive,discharged,"(74,90]",MALE,Inpatient Visit,4,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,99
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,8,89
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,15,86
+positive,deceased,"(59,74]",MALE,Inpatient Visit,40,65
+positive,discharged,"(59,74]",MALE,Inpatient Visit,18,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,12,88
+positive,discharged,"(74,90]",MALE,Inpatient Visit,3,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,5,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,2,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,99
+positive,discharged,"(59,74]",MALE,Inpatient Visit,9,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,97
+positive,discharged,"(74,90]",MALE,Inpatient Visit,17,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,7,94
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,7,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,98
+positive,deceased,"[18,59]",NA,Inpatient Visit,15,95
+positive,deceased,"[18,59]",NA,Inpatient Visit,28,93
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,4,90
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,15,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,90
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,80
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"(74,90]",MALE,Inpatient Visit,9,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,10,92
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,10,92
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,99
+positive,discharged,"(74,90]",MALE,Inpatient Visit,3,91
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,deceased,"(59,74]",MALE,Inpatient Visit,25,84
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,87
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,43,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,3,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,61,99
+positive,discharged,"(59,74]",MALE,Inpatient Visit,31,95
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,14,92
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,10,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,13,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,deceased,"(74,90]",MALE,Inpatient Visit,9,77
+positive,discharged,"(59,74]",MALE,Inpatient Visit,18,90
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,93
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,99
+positive,deceased,"[18,59]",NA,Inpatient Visit,3,93
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,4,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,47,86
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,95
+positive,deceased,"(74,90]",MALE,Inpatient Visit,26,91
+positive,discharged,"(74,90]",MALE,Inpatient Visit,7,97
+positive,discharged,"(74,90]",MALE,Inpatient Visit,6,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,41,98
+positive,deceased,"(59,74]",MALE,Emergency Room Visit,1,76
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,93
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,3,99
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,7,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,8,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,75,82
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,11,95
+positive,discharged,"(74,90]",MALE,Inpatient Visit,6,96
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,11,88
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,93
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,16,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,93
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,7,100
+positive,discharged,"(74,90]",MALE,Inpatient Visit,10,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,52,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,2,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,39,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,27,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,10,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,6,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,11,98
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,7,100
+positive,discharged,"(59,74]",MALE,Inpatient Visit,14,95
+positive,discharged,"(74,90]",MALE,Inpatient Visit,12,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,97
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,2,98
+positive,discharged,"(74,90]",MALE,Inpatient Visit,20,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,28,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,94
+positive,deceased,"(59,74]",MALE,Inpatient Visit,4,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,95
+positive,deceased,"[18,59]",NA,Inpatient Visit,13,76
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,90
+positive,discharged,"(59,74]",MALE,Inpatient Visit,36,90
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,25,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,21,100
+positive,deceased,"(74,90]",MALE,Inpatient Visit,3,79
+positive,deceased,"(59,74]",MALE,Inpatient Visit,44,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,96
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,4,92
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,8,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,16,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,28,99
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,3,98
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,11,97
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,4,90
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,13,92
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,28,91
+positive,discharged,"(59,74]",MALE,Inpatient Visit,7,90
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,18,92
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,11,87
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,98
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,18,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,27,91
+positive,deceased,"(74,90]",MALE,Inpatient Visit,10,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,11,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,28,86
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,deceased,"[18,59]",NA,Inpatient Visit,6,77
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,97
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,5,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,93
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,19,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,15,95
+positive,deceased,"(74,90]",MALE,Inpatient Visit,40,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,2,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,28,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,7,88
+positive,discharged,"[18,59]",MALE,Inpatient Visit,15,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,26,84
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,89
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,93
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,22,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,5,97
+positive,discharged,"(74,90]",MALE,Inpatient Visit,9,94
+positive,deceased,"(74,90]",MALE,Inpatient Visit,4,75
+positive,deceased,"(59,74]",MALE,Inpatient Visit,19,88
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,93
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,8,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",MALE,Inpatient Visit,10,96
+positive,deceased,"(59,74]",MALE,Inpatient Visit,8,85
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,96
+positive,deceased,"(59,74]",MALE,Inpatient Visit,41,98
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,94
+positive,discharged,"(74,90]",MALE,Inpatient Visit,8,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,33,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",FEMALE,Emergency Room Visit,2,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,5,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,8,73
+positive,deceased,"(74,90]",MALE,Inpatient Visit,2,77
+positive,discharged,"[18,59]",MALE,Inpatient Visit,25,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,97
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,88
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,100
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,16,74
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,31,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,8,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,11,90
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,93
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,88
+positive,discharged,"(59,74]",MALE,Inpatient Visit,5,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,31,79
+positive,deceased,"(74,90]",MALE,Inpatient Visit,23,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,22,91
+positive,discharged,"(74,90]",MALE,Inpatient Visit,3,96
+positive,deceased,"(59,74]",MALE,Inpatient Visit,15,83
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,98
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,11,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,2,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,5,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,93
+positive,deceased,"(74,90]",MALE,Inpatient Visit,5,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,93
+positive,deceased,"(59,74]",MALE,Inpatient Visit,26,83
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,9,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,16,91
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,9,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,82
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,9,98
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,20,88
+positive,deceased,"(59,74]",MALE,Inpatient Visit,37,79
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,90
+positive,discharged,"(59,74]",MALE,Inpatient Visit,43,86
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,97
+positive,discharged,"(74,90]",MALE,Inpatient Visit,9,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,14,98
+positive,discharged,"(74,90]",MALE,Inpatient Visit,7,100
+positive,discharged,"(59,74]",MALE,Inpatient Visit,20,87
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,19,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,21,90
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,88
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,5,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,95
+positive,discharged,"(74,90]",MALE,Inpatient Visit,5,95
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,5,89
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,6,94
+positive,deceased,"(59,74]",MALE,Inpatient Visit,54,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,20,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,93
+positive,deceased,"(74,90]",MALE,Inpatient Visit,15,99
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,12,89
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,96
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,3,95
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,3,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,5,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,3,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,9,90
+positive,deceased,"(74,90]",MALE,Inpatient Visit,4,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,83
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,19,80
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,86
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,14,95
+positive,deceased,"(59,74]",MALE,Inpatient Visit,14,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,22,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,31,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,5,92
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",MALE,Inpatient Visit,3,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,12,68
+positive,discharged,"[18,59]",MALE,Inpatient Visit,20,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,42,82
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,22,91
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,13,89
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,12,84
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,3,88
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,11,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,5,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,14,95
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,2,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,8,95
+positive,deceased,"[18,59]",NA,Inpatient Visit,31,65
+positive,deceased,"(74,90]",MALE,Inpatient Visit,4,93
+positive,deceased,"(59,74]",MALE,Inpatient Visit,20,92
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,96
+positive,deceased,"(59,74]",MALE,Inpatient Visit,28,90
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,83
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,99
+positive,deceased,"(59,74]",MALE,Inpatient Visit,24,93
+positive,discharged,"(74,90]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(74,90]",MALE,Inpatient Visit,6,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,90
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,9,96
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,10,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,100
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,8,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,15,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,33,64
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,22,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,deceased,"[18,59]",NA,Inpatient Visit,9,63
+positive,discharged,"(59,74]",MALE,Inpatient Visit,8,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,92
+positive,discharged,"(74,90]",MALE,Inpatient Visit,15,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,13,98
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,18,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,96,92
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,99
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,92
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,18,92
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,17,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,99
+positive,deceased,"(59,74]",MALE,Inpatient Visit,15,77
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,2,72
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,2,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,99
+positive,deceased,"(74,90]",MALE,Inpatient Visit,6,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,5,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,7,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,10,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,14,79
+positive,discharged,"[18,59]",MALE,Inpatient Visit,36,100
+positive,deceased,"(59,74]",MALE,Inpatient Visit,5,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,88
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,94
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,9,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,89
+positive,discharged,"(74,90]",MALE,Inpatient Visit,4,95
+positive,deceased,"(74,90]",MALE,Inpatient Visit,14,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,4,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,17,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,10,91
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,91
+positive,discharged,"(59,74]",MALE,Inpatient Visit,16,97
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,7,99
+positive,deceased,"(59,74]",MALE,Inpatient Visit,65,82
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,90
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,95
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,8,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,95
+positive,discharged,"[18,59]",NA,Inpatient Visit,13,97
+positive,deceased,"(74,90]",MALE,Inpatient Visit,13,92
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,95
+positive,discharged,"(74,90]",MALE,Inpatient Visit,19,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,deceased,"[18,59]",NA,Inpatient Visit,10,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",MALE,Inpatient Visit,2,96
+positive,deceased,"(74,90]",MALE,Inpatient Visit,28,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,82,93
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,5,99
+positive,discharged,"(59,74]",MALE,Inpatient Visit,5,99
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,10,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,deceased,"(74,90]",MALE,Inpatient Visit,5,82
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,16,89
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,14,91
+positive,discharged,"(74,90]",MALE,Inpatient Visit,15,93
+positive,deceased,"(74,90]",MALE,Inpatient Visit,13,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,91
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,91
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,14,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,86
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,23,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,14,73
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,13,100
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,38,84
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,29,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,32,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,12,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,9,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,27,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,96
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,4,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,96
+positive,deceased,"(74,90]",MALE,Inpatient Visit,3,93
+positive,deceased,"(74,90]",MALE,Inpatient Visit,11,88
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,3,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"(74,90]",MALE,Inpatient Visit,4,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,2,88
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,84
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,89
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,97
+positive,deceased,"(74,90]",MALE,Inpatient Visit,9,95
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,93
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,11,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,91
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,22,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,95
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,1,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,7,93
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,24,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,99
+positive,discharged,"(59,74]",MALE,Inpatient Visit,32,84
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,20,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,100
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,11,88
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,37,92
+positive,deceased,"(59,74]",MALE,Inpatient Visit,13,90
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,36,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,99
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,9,94
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,7,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,96
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,11,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,5,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,97
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,9,96
+positive,deceased,"(59,74]",MALE,Inpatient Visit,6,89
+positive,deceased,"(59,74]",MALE,Inpatient Visit,16,88
+positive,deceased,"(74,90]",MALE,Inpatient Visit,3,86
+positive,discharged,"(59,74]",MALE,Inpatient Visit,20,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,13,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,28,89
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,98
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,2,90
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,98
+positive,deceased,"(74,90]",MALE,Inpatient Visit,25,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,21,91
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,5,88
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,23,85
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,4,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,89
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,10,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,56,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,87
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,18,73
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,91
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,13,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,65,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,87
+positive,deceased,"[18,59]",NA,Inpatient Visit,11,86
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,5,95
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,2,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,15,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,25,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,97
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,94
+positive,deceased,"(74,90]",MALE,Inpatient Visit,6,82
+positive,deceased,"(59,74]",MALE,Inpatient Visit,16,92
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,7,93
+positive,discharged,"(74,90]",MALE,Inpatient Visit,6,96
+positive,deceased,"(74,90]",MALE,Inpatient Visit,6,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,22,88
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,4,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,17,91
+positive,discharged,"(74,90]",MALE,Inpatient Visit,15,93
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,7,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,17,92
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,9,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,97
+positive,deceased,"[18,59]",NA,Inpatient Visit,15,87
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,98
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,99
+positive,deceased,"(74,90]",MALE,Inpatient Visit,2,85
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,18,88
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,93
+positive,discharged,"(74,90]",MALE,Inpatient Visit,12,89
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,1,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,8,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,96
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,4,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,20,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,7,92
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,3,85
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,19,86
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,deceased,"[18,59]",NA,Inpatient Visit,30,68
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,99
+positive,deceased,"(74,90]",MALE,Inpatient Visit,12,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,41,96
+positive,deceased,"(59,74]",MALE,Inpatient Visit,10,91
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,7,91
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,94
+positive,discharged,"(74,90]",MALE,Inpatient Visit,6,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,20,75
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,99
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,9,98
+positive,discharged,"(74,90]",MALE,Inpatient Visit,4,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,95
+positive,deceased,"[18,59]",NA,Inpatient Visit,3,86
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,94
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,9,100
+positive,discharged,"(74,90]",MALE,Inpatient Visit,3,95
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,deceased,"(59,74]",MALE,Inpatient Visit,10,89
+positive,deceased,"(74,90]",MALE,Inpatient Visit,6,92
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,17,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,deceased,"[18,59]",NA,Inpatient Visit,50,84
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,25,79
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,10,93
+positive,discharged,"(74,90]",FEMALE,Emergency Room Visit,1,95
+positive,deceased,"(74,90]",MALE,Inpatient Visit,10,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,17,77
+positive,discharged,"(74,90]",MALE,Inpatient Visit,14,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,18,94
+positive,discharged,"(74,90]",MALE,Inpatient Visit,70,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,94
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,2,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,95
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,13,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,95
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,1,92
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,8,91
+positive,deceased,"(59,74]",MALE,Inpatient Visit,4,88
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,94
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,26,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,97
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,6,87
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,97
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,29,99
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,13,93
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,92
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,deceased,"(74,90]",MALE,Inpatient Visit,12,85
+positive,deceased,"(59,74]",MALE,Inpatient Visit,22,90
+positive,discharged,"(74,90]",MALE,Inpatient Visit,5,93
+positive,discharged,"(74,90]",MALE,Inpatient Visit,12,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,89
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,4,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,89
+positive,discharged,"[18,59]",MALE,Inpatient Visit,14,86
+positive,discharged,"(74,90]",MALE,Inpatient Visit,5,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,13,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,24,94
+positive,deceased,"(74,90]",MALE,Inpatient Visit,16,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,12,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,3,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,43,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,15,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,24,99
+positive,deceased,"(59,74]",MALE,Inpatient Visit,17,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,2,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,97
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,15,90
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,11,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,19,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,16,96
+positive,deceased,"[18,59]",NA,Inpatient Visit,16,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,13,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,27,68
+positive,discharged,"(59,74]",MALE,Inpatient Visit,35,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,22,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,2,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,12,92
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,13,98
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,11,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,93
+positive,deceased,"(59,74]",MALE,Inpatient Visit,23,74
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(59,74]",MALE,Inpatient Visit,5,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,92
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,3,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,3,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,3,96
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,98
+positive,deceased,"[18,59]",NA,Inpatient Visit,22,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,95
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,99
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,100
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,3,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,22,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,16,85
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,12,92
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,14,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,77
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,3,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,3,95
+positive,discharged,"(74,90]",MALE,Inpatient Visit,3,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,95
+positive,discharged,"(74,90]",MALE,Inpatient Visit,9,96
+positive,discharged,"(59,74]",NA,Inpatient Visit,7,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,26,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,41,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,84
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,89
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,91
+positive,discharged,"[18,59]",MALE,Inpatient Visit,26,79
+positive,discharged,"[18,59]",MALE,Inpatient Visit,16,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,88
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,89
+positive,discharged,"[18,59]",MALE,Inpatient Visit,48,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,5,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,15,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,11,89
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,7,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,2,100
+positive,discharged,"(74,90]",MALE,Inpatient Visit,7,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,14,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,6,99
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,30,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,91
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,11,92
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,8,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,21,85
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,95
+positive,discharged,"(74,90]",MALE,Inpatient Visit,7,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,deceased,"(59,74]",MALE,Inpatient Visit,31,95
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,95
+positive,deceased,"[18,59]",NA,Inpatient Visit,10,95
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,13,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,71,83
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,10,96
+positive,discharged,"(74,90]",MALE,Inpatient Visit,3,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,18,91
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,89
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,100
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,8,84
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",MALE,Inpatient Visit,5,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,23,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,20,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,7,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,8,91
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,81
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,16,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,30,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,13,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,10,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,7,91
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,87
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,63,85
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,9,91
+positive,discharged,"[18,59]",MALE,Inpatient Visit,29,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,18,91
+positive,deceased,"(59,74]",MALE,Inpatient Visit,42,95
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,2,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,100
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,18,84
+positive,discharged,"[18,59]",MALE,Inpatient Visit,15,87
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,11,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,38,97
+positive,discharged,"(74,90]",MALE,Inpatient Visit,6,89
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,89
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"(59,74]",MALE,Inpatient Visit,13,93
+positive,deceased,"(59,74]",MALE,Inpatient Visit,8,77
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,92
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,12,94
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,12,94
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,2,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,12,88
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,87
+positive,deceased,"[18,59]",NA,Inpatient Visit,19,95
+positive,deceased,"[18,59]",NA,Inpatient Visit,37,100
+positive,deceased,"(59,74]",MALE,Inpatient Visit,26,80
+positive,discharged,"(59,74]",MALE,Inpatient Visit,20,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,3,98
+positive,discharged,"(59,74]",MALE,Inpatient Visit,7,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,95
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,14,90
+positive,discharged,"[18,59]",MALE,Inpatient Visit,20,93
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,88
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,98
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,14,89
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,96
+positive,deceased,"(59,74]",MALE,Inpatient Visit,10,88
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,8,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,96,79
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,12,90
+positive,discharged,"[18,59]",MALE,Inpatient Visit,83,67
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,91
+positive,discharged,"[18,59]",MALE,Inpatient Visit,35,86
+positive,deceased,"(59,74]",MALE,Inpatient Visit,36,78
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,96
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,12,91
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,88
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,99
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,94
+positive,deceased,"[18,59]",NA,Inpatient Visit,60,89
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,45,86
+positive,discharged,"(59,74]",MALE,Inpatient Visit,11,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,13,91
+positive,discharged,"(74,90]",MALE,Inpatient Visit,17,90
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,11,94
+positive,deceased,"(74,90]",MALE,Inpatient Visit,13,89
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,10,90
+positive,discharged,"[18,59]",MALE,Inpatient Visit,20,85
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,27,100
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,5,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,10,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,84
+positive,discharged,"(59,74]",MALE,Inpatient Visit,5,91
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,95
+positive,deceased,"(59,74]",MALE,Inpatient Visit,3,92
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,18,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,32,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,90
+positive,discharged,"[18,59]",MALE,Inpatient Visit,13,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,89
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,90
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,3,97
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,25,92
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,88
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,22,93
+positive,deceased,"(74,90]",MALE,Inpatient Visit,30,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,100
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,2,95
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,12,90
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,7,89
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,92
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,26,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,19,99
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,4,86
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,86
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,93
+positive,deceased,"[18,59]",NA,Inpatient Visit,15,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,4,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,30,77
+positive,discharged,"[18,59]",MALE,Inpatient Visit,15,98
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,95
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,9,88
+positive,deceased,"[18,59]",NA,Inpatient Visit,28,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,10,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,90
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,98
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,14,92
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,10,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,88
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,discharged,"(74,90]",MALE,Inpatient Visit,5,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,11,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,7,93
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,5,95
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,14,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,88
+positive,deceased,"(59,74]",MALE,Inpatient Visit,3,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"(74,90]",MALE,Inpatient Visit,13,94
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,73,92
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,6,97
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,6,93
+positive,deceased,"(59,74]",MALE,Inpatient Visit,6,100
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,90
+positive,discharged,"(59,74]",MALE,Inpatient Visit,7,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,17,88
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,8,88
+positive,deceased,"[18,59]",NA,Inpatient Visit,41,79
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,6,91
+positive,discharged,"[18,59]",MALE,Inpatient Visit,77,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,13,94
+positive,discharged,"(59,74]",MALE,Inpatient Visit,9,77
+positive,discharged,"(59,74]",MALE,Inpatient Visit,3,94
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,93
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,15,81
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,93
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,98
+positive,deceased,"[18,59]",NA,Inpatient Visit,10,88
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,10,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,78
+positive,discharged,"[18,59]",MALE,Inpatient Visit,38,66
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,2,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,91
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,89
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,96
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,95
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,2,96
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,4,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,12,94
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,11,92
+positive,discharged,"(59,74]",MALE,Inpatient Visit,11,86
+positive,discharged,"[18,59]",MALE,Inpatient Visit,12,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,94
+positive,discharged,"(59,74]",FEMALE,Emergency Room Visit,1,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,4,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,29,100
+positive,discharged,"(59,74]",MALE,Inpatient Visit,5,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,94
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,6,98
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,96
+positive,deceased,"(59,74]",MALE,Inpatient Visit,18,76
+positive,discharged,"[18,59]",MALE,Inpatient Visit,10,98
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,11,91
+positive,deceased,"(59,74]",MALE,Inpatient Visit,7,95
+positive,discharged,"[18,59]",MALE,Inpatient Visit,40,72
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,90
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,95
+positive,discharged,"(59,74]",MALE,Inpatient Visit,34,89
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,96
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,3,93
+positive,discharged,"[18,59]",MALE,Inpatient Visit,9,89
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,5,91
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,18,90
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,2,80
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,8,97
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,94
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,9,100
+positive,discharged,"[18,59]",MALE,Inpatient Visit,13,87
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,8,93
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,2,97
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,4,87
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,8,96
+positive,discharged,"(59,74]",MALE,Inpatient Visit,18,92
+positive,deceased,"(74,90]",MALE,Inpatient Visit,33,76
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,91
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,98
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,95
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,100
+positive,discharged,"(59,74]",MALE,Inpatient Visit,50,71
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,2,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,100
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,5,96
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,99
+positive,deceased,"[18,59]",NA,Inpatient Visit,48,64
+positive,discharged,"(74,90]",MALE,Emergency Room Visit,1,100
+positive,deceased,"(59,74]",FEMALE,Inpatient Visit,38,81
+positive,discharged,"[18,59]",MALE,Inpatient Visit,14,89
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,1,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,17,96
+positive,discharged,"[18,59]",MALE,Inpatient Visit,13,85
+positive,discharged,"(74,90]",FEMALE,Inpatient Visit,3,98
+positive,discharged,"(59,74]",MALE,Emergency Room Visit,1,91
+positive,discharged,"(59,74]",FEMALE,Inpatient Visit,9,97
+positive,discharged,"[18,59]",FEMALE,Emergency Room Visit,1,99
+positive,discharged,"[18,59]",MALE,Inpatient Visit,4,99
+positive,discharged,"[18,59]",MALE,Emergency Room Visit,2,97
+positive,discharged,"[18,59]",MALE,Inpatient Visit,3,92
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,10,87
+positive,discharged,"[18,59]",MALE,Inpatient Visit,7,94
+positive,deceased,"(74,90]",FEMALE,Inpatient Visit,2,88
+positive,discharged,"[18,59]",MALE,Inpatient Visit,5,93
+positive,discharged,"[18,59]",FEMALE,Inpatient Visit,2,100
